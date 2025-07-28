@@ -1,0 +1,1 @@
+{"intervals": [[200, 450], [400, 600], [100, 500]], "toggle": "mouse4", "pause_chance": "1", "min_pause": "200", "max_pause": "2500", "burst_chance": "1", "min_burst_clicks": "2", "max_burst_clicks": "5", "min_burst_interval": "50", "max_burst_interval": "90"}
